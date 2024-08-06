@@ -10,6 +10,4 @@ class PokedexApplicationTests {
 	fun contextLoads() {
 	}
 
-	
-
 }
