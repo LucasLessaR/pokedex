@@ -1,0 +1,6 @@
+CREATE TABLE pokemon (
+	id SERIAL PRIMARY KEY,
+	pokemon_name VARCHAR (255) UNIQUE NOT NULL,
+	type_1 VARCHAR (255) NOT NULL,
+	region VARCHAR (255) NOT NULL
+);
